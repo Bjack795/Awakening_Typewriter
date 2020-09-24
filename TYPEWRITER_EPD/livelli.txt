@@ -1,0 +1,29 @@
+level 0
+MAIN MENU
+
+	level 99-200 
+	CHOOSE FILE 
+		
+		level 500
+		INSIDE TEXT
+
+	level 300
+	NEW FILE
+
+		level 500
+		INSIDE TEXT
+
+	level 10
+	SETTINGS
+
+		level 11
+		MARGINS
+	
+		level 12
+		WIFI
+			
+			level 13
+			INFO
+
+			level 14
+			PORTAL
