@@ -40,7 +40,10 @@ The functions are an implementation of this library https://github.com/tzapu/WiF
 ## Awakening Typewriter 2.0 slim (AWT 2.0 slim)
 This is the actual aspect of the project.
 
-![1](https://user-images.githubusercontent.com/42472256/62328355-39993b80-b4b3-11e9-98f6-0a0668b5841e.jpg)
-![2](https://user-images.githubusercontent.com/42472256/62328374-47e75780-b4b3-11e9-8be5-450779a3f3ca.jpg)
-![3](https://user-images.githubusercontent.com/42472256/62328389-503f9280-b4b3-11e9-84e6-70d9a5628e3f.jpg)
+![1](https://user-images.githubusercontent.com/42472256/94129420-a01dad80-fe5b-11ea-9913-746099a1d960.jpg)
+![2](https://user-images.githubusercontent.com/42472256/94129422-a0b64400-fe5b-11ea-8d60-365141bc41ef.jpg)
+![3](https://user-images.githubusercontent.com/42472256/94129424-a0b64400-fe5b-11ea-95f5-00790b582215.jpg)
+![4](https://user-images.githubusercontent.com/42472256/94129425-a0b64400-fe5b-11ea-91f6-96f854682125.jpg)
+![5](https://user-images.githubusercontent.com/42472256/94129426-a14eda80-fe5b-11ea-9aed-4d990b2f3c0c.jpg)
+![6](https://user-images.githubusercontent.com/42472256/94129427-a14eda80-fe5b-11ea-8082-e24a1417acd3.jpg)
 
