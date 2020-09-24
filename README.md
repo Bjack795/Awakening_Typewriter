@@ -13,7 +13,7 @@ E-ink Typewriter, Wemos Lolin D32 pro v2, Waveshare ePaper 2.9" screen and USB h
 - designed PCB
 
 The schematics of the connections are in the EPD_TYPEWRITER_Connections.pdf file
-![EPAPER_TYPEWRITER_Connections](https://user-images.githubusercontent.com/42472256/62328811-639f2d80-b4b4-11e9-9d57-5621f02243c2.png)
+![EPAPER_TYPEWRITER_Connections](https://user-images.githubusercontent.com/42472256/94129163-52a14080-fe5b-11ea-9a0e-92155a6a69cb.png)
 
 ## Software
 All the libraries and files included in TYPEWRITER_EPD folder and downloaded from the library manager.
