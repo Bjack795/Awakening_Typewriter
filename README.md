@@ -3,7 +3,7 @@ E-ink Typewriter, Wemos Lolin D32 pro v2, Waveshare ePaper 2.9" screen and USB h
 
 ## Hardware
 
-- Wemos Lolin D32 pro v2.0 (https://wiki.wemos.cc/products:d32:d32_pro)
+- Wemos Lolin D32 pro v2.0 (https://docs.wemos.cc/en/latest/d32/d32_pro.html)
 - 296x128, 2.9inch E-Ink display module (https://www.waveshare.com/product/2.9inch-e-paper-module.htm)
 - Keyboard USB Host (http://www.hobbytronics.co.uk/usb-host-keyboard)
 - microSD
